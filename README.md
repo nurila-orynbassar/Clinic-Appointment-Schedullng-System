@@ -28,8 +28,7 @@ Developed a functional 1-page dashboard in **App Builder** that allows:
 - **CRUD Operations:** Securely insert, update, and delete appointments and medical records.
 - **Real-time Validation:** UI fields are directly synced with database constraints and triggers.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Database:** Oracle Database
 - **Languages:** SQL, PL/SQL
 - **Interface:** Oracle APEX (App Builder)
-- **Design:** Crow's Foot ER Diagram (3NF)
